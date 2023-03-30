@@ -1,3 +1,4 @@
+%this code is used for Fig3.1 Fig3.2 and Fig 3.3 by just hiding lines where necessary for the figure
 function a2zero_zero2a
 
 rand('state',1);
